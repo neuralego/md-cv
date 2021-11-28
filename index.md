@@ -7,7 +7,7 @@ Bioinformatics PhD and data scientist
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
-|
+▪
 <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
